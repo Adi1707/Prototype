@@ -1,4 +1,4 @@
-# Eat Fit
+# Eat Fit - By AP
 
 A new Flutter project.
 
